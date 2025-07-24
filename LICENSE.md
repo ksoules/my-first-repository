@@ -1,1 +1,2 @@
 '# LICENSE #' 
+about the license 
